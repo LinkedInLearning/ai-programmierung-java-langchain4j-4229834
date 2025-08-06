@@ -35,7 +35,7 @@ public class RagExample {
         System.out.println(response);
     }
 
-    static interface Assistant {
+    interface Assistant {
         String chat(String userMessage);
     }
 
