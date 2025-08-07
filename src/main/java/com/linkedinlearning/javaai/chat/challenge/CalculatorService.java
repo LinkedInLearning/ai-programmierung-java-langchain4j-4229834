@@ -18,7 +18,7 @@ public class CalculatorService {
 
         Assistant assistant = AiServices.builder(Assistant.class)
                 .chatModel(model)
-                .chatMemory(MessageWindowChatMemory.withMaxMessages(10))
+                .chatMemory(MessageWindowChatMemory.withMaxMessages(100))
                 .tools(new CalculatorTools())
                 .build();
 
@@ -29,7 +29,7 @@ public class CalculatorService {
         System.out.println(response);
     }
 
-    static interface Assistant {
+    interface Assistant {
         String chat(String userMessage);
     }
 

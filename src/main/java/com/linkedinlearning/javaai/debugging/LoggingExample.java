@@ -18,12 +18,9 @@ public class LoggingExample {
                 .logResponses(true)
                 .build();
 
-
-        ChatMemory memory = MessageWindowChatMemory.withMaxMessages(10);
-
         ConversationalChain chain = ConversationalChain.builder()
                 .chatModel(model)
-                .chatMemory(memory).build();
+                .build();
 
         chain.execute("Which famous book was written by JRR Tolkien? Give me just the most famous one");
         chain.execute("What is the name of the main character in that book?");
