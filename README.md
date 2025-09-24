@@ -4,7 +4,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `KI-Programmierung i
 
 ![COURSENAME][lil-thumbnail-url] 
 
-Large Language Models (LLM) geben zwar beeindruckende Antworten, liegen aber oft komplett daneben liegen, wenn es um aktuelle Daten oder Berechnungen geht. Mit den richtigen Techniken in Java und mit LangChain4j können Sie das ändern und AI-Anwendungen entwickeln, die wirklich zuverlässig sind.<b><b>
+Large Language Models (LLM) geben zwar beeindruckende Antworten, liegen aber oft komplett daneben liegen, wenn es um aktuelle Daten oder Berechnungen geht. Mit den richtigen Techniken in Java und mit LangChain4j können Sie das ändern und AI-Anwendungen entwickeln, die wirklich zuverlässig sind.
 In diesem LinkedIn Learning-Kurs mit Kevin Wittek tauchen Sie tief in die Chat-Programmierung ein: von der LanguageModel- und ChatModel-API über Response Streaming bis hin zu Chat Memory, RAG und Tool Calling. Abschließend vertiefen Sie Ihr Wissen in Debugging, Logging und Observability. Lernen Sie alles wichtige, um zuverlässige KI-Anwendungen zu erstellen – praxisnah, effektiv und innovativ!
 
 
