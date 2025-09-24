@@ -8,13 +8,25 @@ Large Language Models (LLM) geben zwar beeindruckende Antworten, liegen aber oft
 In diesem LinkedIn Learning-Kurs mit Kevin Wittek tauchen Sie tief in die Chat-Programmierung ein: von der LanguageModel- und ChatModel-API über Response Streaming bis hin zu Chat Memory, RAG und Tool Calling. Abschließend vertiefen Sie Ihr Wissen in Debugging, Logging und Observability. Lernen Sie alles wichtige, um zuverlässige KI-Anwendungen zu erstellen – praxisnah, effektiv und innovativ!
 
 
+## Anleitung
+
+Alle Inhalte sind direkt im `main`-Branch abgelegt.
+
+
+## Installation
+
+1. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder eines anderen Werkzeugs mit grafischer Bedienoberfläche wie SourceTree.
+2. Öffnen Sie das geklonte Repository in IDEA und wählen Sie JDK21 als Projekt SDK aus.
+3. Die einzelnen Beispiele finden sich unter `/src` und lassen sich direkt aus IDEA heraus starten. Die Lösungen zu den Challenges finden sich jeweils in the `challenges` Unterpakten.
+
+
 ### Autor
 
 **Kevin Wittek**
 
-_Open Source Developer und Engineering Leader_
+Engineering Manager, OSS Developer, Coach & Trainer.
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/ki-programmierung-in-java-mit-langchain4j
